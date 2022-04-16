@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Arthur
-- 👀 I’m interested in Psychology, Finance and anything to do with human behaviour.
-- 🌱 I’m currently learning programming and deep learning
-- 💞️ I’m looking to collaborate on any research you can think of.
 - 📫 How to reach me a.howard4@newcastle.ac.uk
 
 <!---
